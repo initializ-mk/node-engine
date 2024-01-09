@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/paketo-buildpacks/node-engine/cmd/optimize-memory/internal"
+	"github.com/initializ-buildpacks/node-engine/cmd/optimize-memory/internal"
 )
 
 func main() {
